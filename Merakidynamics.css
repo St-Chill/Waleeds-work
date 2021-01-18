@@ -1,0 +1,38 @@
+
+h1 {
+    color: rgb(221, 113, 12);
+    font-size: 130px;
+    text-align: center;
+    text-shadow: 15px 7px 20px #000000;
+    text-overflow: clip;
+    background-size:2px;
+}
+body {
+    background-image: url("Science\ Wallpaper\ for\ Walls\ _\ Chalkboard\ Mural\ _\ MuralsWallpaper.jpg");
+    opacity: 5s;
+    transition-property: initial;
+}
+  
+.topnav input[type=text] {
+  float: none; 
+  padding: 10px;
+  border: 500px;
+  border-color:rgb(161, 61, 61);
+  margin-bottom: 240px;
+  margin-left: 650px;
+  font-size: 17px;
+  background-color: rgb(255, 255, 255); 
+  border-color: black;
+
+}
+
+.img{
+  size: 20px;
+}
+
+.button {  
+  margin-left: 20px;
+  size:100px;
+  width:900;
+
+}
